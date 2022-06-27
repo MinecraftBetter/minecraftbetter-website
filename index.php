@@ -62,7 +62,7 @@
             <div class="text-center">
                 <img src="assets/img/home/icon.png" href="#" class="presentation-icon"/>
                 <h1 id="txt-mcbetter">Minecraft Better</h1>
-                <p class="lead" id="txt-home-desc">A minecraft server</p>
+                <p class="lead" id="txt-mcbetter-desc">A minecraft server</p>
                 <p class="lead" id="buttons">
                     <a href="https://github.com/MinecraftBetter/launcher/actions/workflows/gradle.yml?query=is%3Asuccess" target="_blank" id="downloadBtn"
                        class="btn btn-lg btn-danger">
@@ -74,13 +74,13 @@
 
 
         <content class="panel d-block mb-5">
-            <p class="description" id="txt-vrp-desc">
+            <p class="description" id="txt-mcbetter-desc">
                 Some text
             </p>
 
             <div class="alert alert-warning" role="alert" style="margin: 0 auto 2em; max-width: 900px; max-height: 500px;">
                 <i class="fas fa-exclamation-triangle"></i>
-                <span id="txt-vrp-issues">The server isn't openned yet</span>
+                <span id="txt-mcbetter-issues">The server isn't opened yet</span>
             </div>
 
             <div class="mb-5 text-center" style="margin: 0 auto; max-width: 900px; max-height: 500px;">
