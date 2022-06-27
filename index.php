@@ -62,7 +62,7 @@
             <div class="text-center">
                 <img src="assets/img/home/icon.png" href="#" class="presentation-icon"/>
                 <h1 id="txt-mcbetter">Minecraft Better</h1>
-                <p class="lead" id="txt-mcbetter-desc">A minecraft server</p>
+                <p class="lead" id="txt-mcbetter-subtitle">A minecraft server</p>
                 <p class="lead" id="buttons">
                     <a href="https://github.com/MinecraftBetter/launcher/actions/workflows/gradle.yml?query=is%3Asuccess" target="_blank" id="downloadBtn"
                        class="btn btn-lg btn-danger">
