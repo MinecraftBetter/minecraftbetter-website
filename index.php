@@ -67,7 +67,7 @@
                     <a href="https://api.adoptium.net/v3/binary/version/jdk-18.0.1%2B10/windows/x64/jdk/hotspot/normal/eclipse?project=jdk" class="btn btn-lg btn-info">
                         <i class="fab fa-java"></i><span id="txt-download-java">Java 18</span>
                     </a>
-                    <br style="width: 100vw;" />
+                    <span style="width: 100vw;"></span>
                     <a href="https://api.minecraftbetter.com/minecraftbetter/launcher/download?os=windows" id="downloadBtn"
                        class="btn btn-lg btn-danger">
                         <i class="fab fa-windows"></i><span id="txt-download-win">Download (Win)</span>
