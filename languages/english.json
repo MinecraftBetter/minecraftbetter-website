@@ -5,7 +5,8 @@
   "txt-github": "Github",
   "txt-discord": "Discord",
   "txt-download-java": "Java 18",
-  "txt-download": "Download",
+  "txt-download-win": "Download (Win)",
+  "txt-download-universal": "Download (Universal)",
 
   "txt-mcbetter": "Minecraft Better",
   "txt-mcbetter-subtitle": "A minecraft server",
