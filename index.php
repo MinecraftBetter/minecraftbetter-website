@@ -86,9 +86,9 @@
                 Type 'creeper' in chat
             </p>
 
-            <div class="alert alert-warning" role="alert" style="margin: 0 auto 2em; max-width: 900px; max-height: 500px;">
-                <i class="fas fa-exclamation-triangle"></i>
-                <span id="txt-mcbetter-issues">The server isn't opened yet</span>
+            <div class="alert alert-dark" role="alert" style="margin: 0 auto 2em; max-width: 900px; max-height: 500px;">
+                <i class="fas fa-info"></i>
+                <span id="txt-mcbetter-issues">Opening this Saturday, July 2 at <b>5 p.m.</b></span>
             </div>
 
             <div class="mb-5 text-center" style="margin: 0 auto; max-width: 900px; max-height: 500px;">
