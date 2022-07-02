@@ -83,7 +83,7 @@
 
         <content class="panel d-block mb-5">
             <p class="description" id="txt-mcbetter-desc">
-                Some text
+                Type 'creeper' in chat
             </p>
 
             <div class="alert alert-warning" role="alert" style="margin: 0 auto 2em; max-width: 900px; max-height: 500px;">
