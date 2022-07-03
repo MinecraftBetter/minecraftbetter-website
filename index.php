@@ -64,7 +64,7 @@
                 <h1 id="txt-mcbetter">Minecraft Better</h1>
                 <p class="lead" id="txt-mcbetter-subtitle">A minecraft server</p>
                 <p class="lead" id="buttons" style="flex-wrap: wrap;">
-                    <a href="https://adoptium.net/" class="btn btn-lg btn-info">
+                    <a href="https://adoptium.net/" class="btn btn-lg btn-info" target="_blank">
                         <i class="fab fa-java"></i><span id="txt-download-java">Java 17</span>
                     </a>
                     <span style="width: 100vw;"></span>
