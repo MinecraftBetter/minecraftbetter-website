@@ -64,8 +64,8 @@
                 <h1 id="txt-mcbetter">Minecraft Better</h1>
                 <p class="lead" id="txt-mcbetter-subtitle">A minecraft server</p>
                 <p class="lead" id="buttons" style="flex-wrap: wrap;">
-                    <a href="https://api.adoptium.net/v3/binary/version/jdk-18.0.1%2B10/windows/x64/jdk/hotspot/normal/eclipse?project=jdk" class="btn btn-lg btn-info">
-                        <i class="fab fa-java"></i><span id="txt-download-java">Java 18</span>
+                    <a href="https://adoptium.net/" class="btn btn-lg btn-info">
+                        <i class="fab fa-java"></i><span id="txt-download-java">Java 17</span>
                     </a>
                     <span style="width: 100vw;"></span>
                     <a href="https://api.minecraftbetter.com/minecraftbetter/launcher/download?os=windows" id="downloadBtn"
