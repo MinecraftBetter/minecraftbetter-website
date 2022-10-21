@@ -31,7 +31,7 @@
 <div class="mx-auto">
     <header class="masthead mb-auto scrolled" style="color: var(--white)">
         <div class="inner">
-            <a href="/"><img class="masthead-brand" src="assets/img/banner.png" style="height: 4.5em;"/></a>
+            <a href="/"><img class="masthead-brand" src="assets/img/banner.png" style="height: 4.5em;" alt="Banner" /></a>
             <nav class="p-3 nav nav-masthead justify-content-center">
                 <a class="nav-link active" href="/" id="txt-home">Home</a>
                 <div class="dropdown">
@@ -60,7 +60,8 @@
                 </div>
             </div>
             <div class="text-center">
-                <img src="assets/img/home/icon.png" href="#" class="presentation-icon"/>
+                <!--<img src="assets/img/home/icon.png" href="#" class="presentation-icon" alt="Minecraft Better logo" />-->
+                <iframe src='https://minecraftbetter.com/assets/img/animated-logo.html' frameborder='0' class="presentation-icon" height='250' id="logo-frame"></iframe>
                 <h1 id="txt-mcbetter">Minecraft Better</h1>
                 <p class="lead" id="txt-mcbetter-subtitle">A minecraft server</p>
                 <p class="lead" id="buttons" style="flex-wrap: wrap;">
