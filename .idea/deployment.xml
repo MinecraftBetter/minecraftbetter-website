@@ -5,7 +5,7 @@
       <paths name="NGinx">
         <serverdata>
           <mappings>
-            <mapping deploy="/mnt/user/appdata/NGINXPageSpeed/www" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="minecraftbetter" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
