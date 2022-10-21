@@ -64,15 +64,16 @@
                 <h1 id="txt-mcbetter">Minecraft Better</h1>
                 <p class="lead" id="txt-mcbetter-subtitle">A minecraft server</p>
                 <p class="lead" id="buttons" style="flex-wrap: wrap;">
-                    <a href="https://api.adoptium.net/v3/installer/version/jdk-18.0.1%2B10/windows/x64/jdk/hotspot/normal/eclipse?project=jdk" class="btn btn-lg btn-info">
-                        <i class="fab fa-java"></i><span id="txt-download-java">Java 18</span>
+                    <a href="#windows" id="downloadBtn" class="btn btn-lg btn-info">
+                        <i class="fab fa-windows"></i><span id="txt-download-windows">Windows</span>
                     </a>
                     <span style="width: 100vw;"></span>
-                    <a href="https://api.minecraftbetter.com/minecraftbetter/launcher/download?os=windows" id="downloadBtn" class="btn btn-lg btn-danger">
-                        <i class="fab fa-windows"></i><span id="txt-download-win">Download (Win)</span>
+                    <a href="#macos" id="downloadBtn" class="btn btn-lg btn-danger">
+                        <i class="fab fa-apple"></i><span id="txt-download-macos">MacOS</span>
                     </a>
-                    <a href="https://api.minecraftbetter.com/minecraftbetter/launcher/download" id="downloadBtn" class="btn btn-lg btn-danger">
-                        <i class="fas fa-download"></i><span id="txt-download-universal">Download (Universal)</span>
+                    <span></span>
+                    <a href="#linux" id="downloadBtn" class="btn btn-lg btn-success">
+                        <i class="fab fa-linux"></i><span id="txt-download-linux">Linux</span>
                     </a>
                 </p>
             </div>
@@ -93,11 +94,60 @@
                 </div>
             </div>
 
+            <section id="installation">
+                <h3 id="txt-download">Installation</h3>
+                <article>
+                    <h4 id="windows"><i class="fab fa-windows"></i> <span id="txt-download-windows">Windows</span></h4>
+                    <p>
+                        <span id="txt-download-first">First, install</span>
+                        <a href="https://api.adoptium.net/v3/installer/version/jdk-18.0.1%2B10/windows/x64/jdk/hotspot/normal/eclipse?project=jdk" class="btn btn-sm btn-info">
+                            <i class="fab fa-java"></i><span id="txt-download-java">Java 18</span>
+                        </a>
+                        <span id="txt-download-then">then, download</span>
+                        <a href="https://api.minecraftbetter.com/minecraftbetter/launcher/download?os=windows&ext=exe" id="downloadBtn" class="btn btn-sm btn-secondary">
+                            <i class="fas fa-download"></i><span id="txt-download-installer">the installer</span>
+                        </a>
+                        <span id="txt-download-or">or</span>
+                        <a href="https://api.minecraftbetter.com/minecraftbetter/launcher/download?os=windows&ext=jar" id="downloadBtn" class="btn btn-sm btn-secondary">
+                            <i class="fas fa-download"></i><span id="txt-download-standalone">the standalone</span>
+                        </a>
+                    </p>
+                </article>
+                <article>
+                    <h4 id="macos"><i class="fab fa-apple"></i> <span id="txt-download-macos">MacOS</span></h4>
+                    <p>
+                        <span id="txt-download-first">First, install</span>
+                        <a href="https://api.adoptium.net/v3/installer/version/jdk-18.0.1%2B10/mac/x64/jdk/hotspot/normal/eclipse?project=jdk" class="btn btn-sm btn-info">
+                            <i class="fab fa-java"></i><span id="txt-download-java">Java 18</span>
+                        </a>
+                        <span id="txt-download-then">then, download</span>
+                        <a href="https://api.minecraftbetter.com/minecraftbetter/launcher/download?os=macos&ext=jar" id="downloadBtn" class="btn btn-sm btn-secondary">
+                            <i class="fas fa-download"></i><span id="txt-download-standalone">the standalone</span>
+                        </a>
+                    </p>
+                </article>
+                <article>
+                    <h4 id="linux"><i class="fab fa-linux"></i> <span id="txt-download-linux">Linux</span></h4>
+                    <p>
+                        <span id="txt-download-first">First, install</span>
+                        <a href="https://adoptium.net/installation/linux/" class="btn btn-sm btn-info">
+                            <i class="fab fa-java"></i><span id="txt-download-java">Java 18</span>
+                        </a>
+                        <span id="txt-download-then">then, download</span>
+                        <a href="https://api.minecraftbetter.com/minecraftbetter/launcher/download?os=ubuntu&ext=jar" id="downloadBtn" class="btn btn-sm btn-secondary">
+                            <i class="fas fa-download"></i><span id="txt-download-standalone">the standalone</span>
+                        </a>
+                    </p>
+                </article>
+            </section>
+
+            <br />
+
             <div class="d-flex mt-5 flex-wrap" style="gap: 25px; margin: 0 auto; max-width: 900px">
-                <a href="https://github.com/MinecraftBetter" class="btn btn-lg btn-secondary" style="flex: 1 1 0">
+                <a href="https://github.com/MinecraftBetter" class="btn btn-lg btn-dark" style="flex: 1 1 0">
                     <i class="fab fa-github"></i><span id="txt-github">Github</span>
                 </a>
-                <a href="https://discord.gg/4TC5eNEkE5" class="btn btn-lg btn-secondary" style="flex: 1 1 0">
+                <a href="https://discord.gg/4TC5eNEkE5" class="btn btn-lg btn-dark" style="flex: 1 1 0">
                     <i class="fab fa-discord"></i><span id="txt-discord">Discord</span>
                 </a>
             </div>

@@ -4,9 +4,17 @@
 
   "txt-github": "Github",
   "txt-discord": "Discord",
+
+  "txt-download-windows": "Windows",
+  "txt-download-macos": "MacOS",
+  "txt-download-linux": "Linux",
+  "txt-download": "Installation",
+  "txt-download-first": "First, install",
   "txt-download-java": "Java 18",
-  "txt-download-win": "Download (Win)",
-  "txt-download-universal": "Download (Universal)",
+  "txt-download-then": "then, download",
+  "txt-download-installer": "the installer",
+  "txt-download-or": "or",
+  "txt-download-standalone": "the standalone",
 
   "txt-mcbetter": "Minecraft Better",
   "txt-mcbetter-subtitle": "A minecraft server",
