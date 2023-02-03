@@ -33,7 +33,9 @@
         <div class="inner">
             <a href="/"><img class="masthead-brand" src="assets/img/banner.png" style="height: 4.5em;" alt="Banner" /></a>
             <nav class="p-3 nav nav-masthead justify-content-center">
-                <a class="nav-link active" href="/" id="txt-home">Home</a>
+                <a class="nav-link active" href="/"><i class="fas fa-home"></i> <span id="txt-home">Home</a>
+                <a class="nav-link" href="http://status.minecraftbetter.com/"><i class="fas fa-server"></i> <span id="txt-status">Status</span></a>
+                <a class="nav-link" href="https://discord.gg/4TC5eNEkE5"><i class="fab fa-discord"></i> <span id="txt-discord">Discord</span></a>
                 <div class="dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" id="language" data-toggle="dropdown"><i class="fas fa-language"></i></a>
                     <div class="dropdown-menu">
@@ -148,8 +150,8 @@
                 <a href="https://github.com/MinecraftBetter" class="btn btn-lg btn-dark" style="flex: 1 1 0">
                     <i class="fab fa-github"></i><span id="txt-github">Github</span>
                 </a>
-                <a href="https://discord.gg/4TC5eNEkE5" class="btn btn-lg btn-dark" style="flex: 1 1 0">
-                    <i class="fab fa-discord"></i><span id="txt-discord">Discord</span>
+                <a href="https://www.youtube.com/channel/UCBIuyqGUDez-ksy7DPupJ6w" class="btn btn-lg btn-danger" style="flex: 1 1 0">
+                    <i class="fab fa-youtube"></i><span id="txt-youtube">YouTube</span>
                 </a>
             </div>
         </content>

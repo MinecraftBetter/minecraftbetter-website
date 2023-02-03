@@ -1,9 +1,11 @@
 {
   "txt-home": "Accueil",
+  "txt-status": "Status",
   "txt-credit": "Ce site a été fait avec ❤ par",
 
   "txt-github": "Github",
   "txt-discord": "Discord",
+  "txt-youtube": "YouTube",
 
   "txt-download-windows": "Windows",
   "txt-download-macos": "MacOS",
