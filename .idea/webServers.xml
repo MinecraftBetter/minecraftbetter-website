@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="557ed6a0-702c-48a5-89ed-282c75f14185" name="NGinx" url="https://nginx.minecraftbetter.com/">
-        <fileTransfer accessType="SFTP" host="minecraftbetter.com" port="1025" sshConfigId="272499b9-f6f3-4cf7-83f6-4edf937cf0f6" sshConfig="Tiago" keyPair="true">
+      <webServer id="557ed6a0-702c-48a5-89ed-282c75f14185" name="NGinx" url="https://minecraftbetter.com/">
+        <fileTransfer rootFolder="/var/www/" accessType="SFTP" host="minecraftbetter.com" port="1025" sshConfigId="272499b9-f6f3-4cf7-83f6-4edf937cf0f6" sshConfig="Tiago" keyPair="true">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="0" />
           </advancedOptions>
