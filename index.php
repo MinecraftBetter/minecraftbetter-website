@@ -91,7 +91,7 @@
             <div class="mb-5 text-center" style="margin: 0 auto; max-width: 900px; max-height: 500px;">
                 <div class="embed-responsive embed-responsive-16by9">
                     <div class="embed-responsive-item text-center text-light d-flex" style="margin: 0 auto; background: #2f2f2f">
-                        <iframe width="1280" height="720" src="https://www.youtube.com/embed/4K7LyzzlEL8" title="MinecraftBetter Trailer" frameborder="0"
+                        <iframe width="1280" height="720" src="https://www.youtube.com/embed/EHF_U2uEKCo" title="MinecraftBetter Trailer" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
