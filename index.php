@@ -34,7 +34,8 @@
             <a href="/"><img class="masthead-brand" src="assets/img/banner.png" style="height: 4.5em;" alt="Banner" /></a>
             <nav class="p-3 nav nav-masthead justify-content-center">
                 <a class="nav-link active" href="/"><i class="fas fa-home"></i> <span id="txt-home">Home</a>
-                <a class="nav-link" href="http://status.minecraftbetter.com/"><i class="fas fa-server"></i> <span id="txt-status">Status</span></a>
+                <a class="nav-link" href="https://place.minecraftbetter.com/"><i class="fas fa-pen"></i> <span id="txt-place">rPlace</span></a>
+                <a class="nav-link" href="https://status.minecraftbetter.com/"><i class="fas fa-server"></i> <span id="txt-status">Status</span></a>
                 <a class="nav-link" href="https://discord.gg/4TC5eNEkE5"><i class="fab fa-discord"></i> <span id="txt-discord">Discord</span></a>
                 <div class="dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" id="language" data-toggle="dropdown"><i class="fas fa-language"></i></a>
@@ -137,7 +138,7 @@
                             <i class="fab fa-java"></i><span id="txt-download-java">Java 18</span>
                         </a>
                         <span id="txt-download-then">then, download</span>
-                        <a href="https://api.minecraftbetter.com/minecraftbetter/launcher/download?os=ubuntu&ext=jar" id="downloadBtn" class="btn btn-sm btn-secondary">
+                        <a href="https://api.minecraftbetter.com/minecraftbetter/launcher/download?os=linux&ext=jar" id="downloadBtn" class="btn btn-sm btn-secondary">
                             <i class="fas fa-download"></i><span id="txt-download-standalone">the standalone</span>
                         </a>
                     </p>
